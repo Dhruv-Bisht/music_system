@@ -1,0 +1,24 @@
+1) to see the first 5 data of the data frame is ---> df.head(int)
+
+2) to see the last 5 data of the data frame is ---> df.tail(5)
+
+3) to know the shape of the data set ---> df.shape
+
+4) to check the Null values ---> df.isnull()
+5) to keep the count of the null values in the data set ---> df.isnull().sum()
+
+6) only to take the sample as 5000 ---> df.sample(sample_size) eg:- df.sample(5000)
+
+
+
+------------------------------ TOKENIZATION ------------------------------------
+token --converted---> Vector
+	technique:- 
+		1) TF-IDF
+		2) bag if word
+		3) word 2 vect
+
+
+
+
+
